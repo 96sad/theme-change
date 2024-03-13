@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+.btn{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.dark{
+    background-color: black;
+    color: aliceblue;
+}
+.light{
+    background-color: aliceblue;
+    color: black;
+}
